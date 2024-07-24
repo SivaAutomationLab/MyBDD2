@@ -29,7 +29,7 @@ public class LinkTextTest {
         String expected_title = "Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!";
         //Assert.assertEquals( actual_title, expected_title);
         Assert.assertTrue(actual_title.contains(expected_title));
-        System.out.println("verified and pas");
+        System.out.println("verified and pass");
 
 
     }
